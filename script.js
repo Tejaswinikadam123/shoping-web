@@ -10,6 +10,6 @@ if(bar){
 
 if(close){
     close.addEventListener('click', () => {
-        nav.classList.add('active');
+        nav.classList.remove('active');
     })
 }
