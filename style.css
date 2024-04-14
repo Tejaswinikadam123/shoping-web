@@ -700,6 +700,18 @@ footer a:hover{
     border-radius: 20px;
 }
 
+.cura{
+    background-color: #cde46e;
+    padding: 5px;
+}
+.ladies{
+    text-decoration: none;
+    color: palevioletred;
+}
+#about-head h2{
+    color: #096373;
+}
+
 /* contact section */
 
 #contact-details{
